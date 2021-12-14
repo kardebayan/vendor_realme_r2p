@@ -334,15 +334,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/r2p/proprietary/vendor/firmware/a512_zap.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/a512_zap.b02 \
     vendor/realme/r2p/proprietary/vendor/firmware/a512_zap.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/a512_zap.elf \
     vendor/realme/r2p/proprietary/vendor/firmware/a512_zap.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/a512_zap.mdt \
-    vendor/realme/r2p/proprietary/vendor/firmware/a530_gpmu.fw2:$(TARGET_COPY_OUT_VENDOR)/firmware/a530_gpmu.fw2 \
-    vendor/realme/r2p/proprietary/vendor/firmware/a530_pfp.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a530_pfp.fw \
-    vendor/realme/r2p/proprietary/vendor/firmware/a530_pm4.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a530_pm4.fw \
-    vendor/realme/r2p/proprietary/vendor/firmware/a530v1_pfp.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a530v1_pfp.fw \
-    vendor/realme/r2p/proprietary/vendor/firmware/a530v1_pm4.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a530v1_pm4.fw \
-    vendor/realme/r2p/proprietary/vendor/firmware/a530v2_seq.fw2:$(TARGET_COPY_OUT_VENDOR)/firmware/a530v2_seq.fw2 \
-    vendor/realme/r2p/proprietary/vendor/firmware/a530v3_gpmu.fw2:$(TARGET_COPY_OUT_VENDOR)/firmware/a530v3_gpmu.fw2 \
-    vendor/realme/r2p/proprietary/vendor/firmware/a530v3_seq.fw2:$(TARGET_COPY_OUT_VENDOR)/firmware/a530v3_seq.fw2 \
-    vendor/realme/r2p/proprietary/vendor/firmware/a540_gpmu.fw2:$(TARGET_COPY_OUT_VENDOR)/firmware/a540_gpmu.fw2 \
     vendor/realme/r2p/proprietary/vendor/firmware/a_fp.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/a_fp.b00 \
     vendor/realme/r2p/proprietary/vendor/firmware/a_fp.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/a_fp.b01 \
     vendor/realme/r2p/proprietary/vendor/firmware/a_fp.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/a_fp.b02 \
